@@ -1,0 +1,20 @@
+[
+    {
+        "company": "Google",
+        "role": "Software Engineer",
+        "location": "Bangalore",
+        "apply_link": "https://careers.google.com/jobs"
+    },
+    {
+        "company": "Amazon",
+        "role": "Junior Developer",
+        "location": "Hyderabad",
+        "apply_link": "https://amazon.jobs/en"
+    },
+    {
+        "company": "Federal Bank",
+        "role": "IT Trainee",
+        "location": "Nandyal",
+        "apply_link": "https://www.federalbank.co.in/careers"
+    }
+]
